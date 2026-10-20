@@ -5,7 +5,12 @@
     "name": "石面棍哥",
     "description": "益智？考验？\n关卡类闯关游戏\n创意工坊 抬腕即玩",
     "preview": [
-      "media/石面棍哥@2x.png"
+      "media/石面棍哥@2x.png",
+      "media/容器 201@2x.png",
+      "media/容器 203@2x.png",
+      "media/workshop@2x.png",
+      "media/画板 7@2x.png",
+      "media/容器 204@2x.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/石面棍哥@2x.png",
@@ -26,7 +31,7 @@
   "downloads": {
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/环9P-石面棍哥-v1.0.0.rpk",
+      "file_name": "downloads/9p石面棍哥1.0.0.rpk",
       "versionCode": 1
     }
   },
