@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "com.liuyuze61.otto",
+    "restype": "quick_app",
+    "name": "石面棍哥",
+    "description": "益智？考验？\n关卡类闯关游戏\n创意工坊 抬腕即玩",
+    "preview": [
+      "media/石面棍哥@2x.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/石面棍哥@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "石面棍哥密钥购买链接",
+      "url": "https://afdian.com/item/59d04bb01eeb11f1808d52540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环9P-石面棍哥-v1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
